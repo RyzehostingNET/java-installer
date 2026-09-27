@@ -19,3 +19,9 @@ Run the following command on your server with `root` privileges:
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/RyzehostingNET/java-installer/main/install.sh | bash
+```
+
+## 📖 Step-by-Step Guide & Tutorial
+For a comprehensive manual guide on managing multiple Java environments on Linux, read our official tutorial:
+
+👉 [How to Install Java on Ubuntu & Debian (Ryzehosting Guide)](https://ryzehosting.com/guides/install-java)
