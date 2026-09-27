@@ -11,7 +11,9 @@ An interactive, lightweight Bash script to easily install any available version 
 ## ✨ Features
 - 🚀 **Interactive Version Selector:** Automatically fetches all active OpenJDK releases directly from the Adoptium API.
 - ⚡ **Zero-Hassle Setup:** Automatically installs required dependencies (like `jq`) if missing.
-- 🛠️ **Seamless Environment Setup:** Configures default Java paths and alternatives.
+- 🛠️ **Seamless Environment Setup:** Configures default Java paths and alternatives automatically.
+
+---
 
 ## 📥 Quick Installation (One-Liner)
 
@@ -21,7 +23,14 @@ Run the following command on your server with `root` privileges:
 curl -sSL https://raw.githubusercontent.com/RyzehostingNET/java-installer/main/install.sh | bash
 ```
 
-## 📖 Step-by-Step Guide & Tutorial
-For a comprehensive manual guide on managing multiple Java environments on Linux, read our official tutorial:
+---
 
-👉 [How to Install Java on Ubuntu & Debian (Ryzehosting Guide)](https://ryzehosting.com/guides/install-java)
+## 📖 Step-by-Step Guide & Tutorial
+For a comprehensive manual guide on managing multiple Java environments on Linux, read our official tutorial:  
+👉 **[How to Install Java on Ubuntu & Debian (Ryzehosting Guide)](https://ryzehosting.com/guides/install-java)**
+
+---
+
+## 🛡️ Maintained by Ryzehosting
+Developed and actively maintained by the team at **[Ryzehosting.com](https://ryzehosting.com)**.  
+Looking for a high-performance Linux VPS with strong AMD single-core power, NVMe storage, and 4+ Tbps DDoS defense? Check out our **[KVM vServer Hosting](https://ryzehosting.com/vserver)**.
